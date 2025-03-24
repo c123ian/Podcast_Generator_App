@@ -2,10 +2,12 @@
 
 A system that automatically creates podcasts from any text content. Upload a PDF, text file, website, or audio, and the system generates a natural conversational podcast between two speakers using AI.
 
+### 🚀 Try the Live app [HERE](https://c123ian--gen-podcast-serve.modal.run)
+
+
 ![image](https://github.com/user-attachments/assets/568c1d2f-8cde-4813-922e-f1cdc5e1d100)
 
 
-## 🚀 Try the Live app [HERE](https://c123ian--gen-podcast-serve.modal.run)
 
 ## Samples
 
