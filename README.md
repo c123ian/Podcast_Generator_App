@@ -258,6 +258,8 @@ def normalize_script_quotes(script):
 
 This standardization addresses a subtle but critical issue: Bark produces extended silence when encountering inconsistent quote formats. By normalizing to a single standard, we achieved much more fluid speech.
 
+## 🚀 Try the Live app [HERE](https://c123ian--gen-podcast-serve.modal.run)
+
 
 ## 🔍 Further Development (TO DO)
 
